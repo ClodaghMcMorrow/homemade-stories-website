@@ -390,11 +390,12 @@ section { padding: clamp(56px, 9vw, 112px) 0; }
   .site-footer .container { justify-content: center; text-align: center; }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 560px) {
   .site-header .container { justify-content: center; }
-  .brand { font-size: 1rem; }
-  .nav { width: 100%; justify-content: center; gap: 8px; }
-  .nav a { font-size: 0.82rem; }
+  .brand { font-size: 1.05rem; }
+  .nav { width: 100%; justify-content: center; gap: 10px; flex-wrap: wrap; }
+  .nav a { font-size: 0.85rem; }
+  .lang-switcher { max-width: 100px; font-size: 0.8rem; padding: 4px 8px 4px 24px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
