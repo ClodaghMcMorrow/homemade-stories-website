@@ -61,7 +61,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': 'Is the app really free with no ads or in-app purchases?',
     'support.faq3_a': 'Yes. Homemade Stories has no ads, no subscriptions, and no in-app purchases. We wanted a children\'s app that parents could hand over without worrying.',
     'support.bugs_h2': 'Feature requests & bug reports',
-    'support.bugs_body_html': `If you've spotted a bug or have a suggestion, email <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> with as much detail as you can.`,
+    'support.bugs_body_html': `If you've spotted a bug or have a suggestion, email <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> with as much detail as you can.`,
     'support.languages_h2': 'Available languages',
     'support.languages_body': 'Homemade Stories is available in Arabic, Chinese, English, French, German, Hindi, Italian, Japanese, Korean, Portuguese and Spanish — so storytellers and little listeners around the world can enjoy it in their own language.',
 
@@ -83,7 +83,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'Third-party services',
     'privacy.thirdparty_body': 'This app does not integrate any third-party SDKs, advertising networks, or analytics tools.',
     'privacy.contact_h2': 'Contact',
-    'privacy.contact_html': `If you have any questions about this privacy policy, please contact us at <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>.`
+    'privacy.contact_html': `If you have any questions about this privacy policy, please contact us at <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>.`
   },
 
   /* ── ARABIC ──────────────────────────────────────────────── */
@@ -129,7 +129,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': 'هل التطبيق مجاني فعلاً بلا إعلانات ولا مشتريات؟',
     'support.faq3_a': 'نعم. Homemade Stories بلا إعلانات ولا اشتراكات ولا مشتريات داخل التطبيق. أردنا تطبيقاً للأطفال يمكن للوالدين تسليمه دون قلق.',
     'support.bugs_h2': 'اقتراحات وتقارير الأخطاء',
-    'support.bugs_body_html': `إن رصدت خطأً أو لديك اقتراح، راسلنا على <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> مع أكبر قدرٍ من التفاصيل.`,
+    'support.bugs_body_html': `إن رصدت خطأً أو لديك اقتراح، راسلنا على <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> مع أكبر قدرٍ من التفاصيل.`,
     'support.languages_h2': 'اللغات المتاحة',
     'support.languages_body': 'Homemade Stories متوفّر بالعربية والصينية والإنجليزية والفرنسية والألمانية والهندية والإيطالية واليابانية والكورية والبرتغالية والإسبانية — ليستمتع به الرواة والمستمعون الصغار حول العالم بلغاتهم.',
 
@@ -151,7 +151,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'خدمات الأطراف الثالثة',
     'privacy.thirdparty_body': 'لا يدمج هذا التطبيق أيّ حزم SDK خارجية أو شبكات إعلانية أو أدوات تحليل.',
     'privacy.contact_h2': 'التواصل',
-    'privacy.contact_html': `إن كانت لديك أيّ أسئلة حول سياسة الخصوصية، يُرجى التواصل معنا على <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>.`
+    'privacy.contact_html': `إن كانت لديك أيّ أسئلة حول سياسة الخصوصية، يُرجى التواصل معنا على <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>.`
   },
 
   /* ── CHINESE (Simplified) ────────────────────────────────── */
@@ -197,7 +197,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': '应用真的免费且没有广告或应用内购吗？',
     'support.faq3_a': '是的。Homemade Stories 无广告、无订阅、无应用内购。我们希望打造一款父母可以放心交到孩子手中的应用。',
     'support.bugs_h2': '功能建议与问题反馈',
-    'support.bugs_body_html': `如果发现问题或有任何建议，请发送邮件至 <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>，并尽可能详细地描述。`,
+    'support.bugs_body_html': `如果发现问题或有任何建议，请发送邮件至 <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>，并尽可能详细地描述。`,
     'support.languages_h2': '支持的语言',
     'support.languages_body': 'Homemade Stories 提供阿拉伯语、中文、英语、法语、德语、印地语、意大利语、日语、韩语、葡萄牙语和西班牙语——让世界各地的讲述者和小小听众都能以自己的语言享用。',
 
@@ -219,7 +219,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': '第三方服务',
     'privacy.thirdparty_body': '本应用不集成任何第三方 SDK、广告网络或分析工具。',
     'privacy.contact_h2': '联系方式',
-    'privacy.contact_html': `如果您对本隐私政策有任何疑问，请通过 <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> 联系我们。`
+    'privacy.contact_html': `如果您对本隐私政策有任何疑问，请通过 <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> 联系我们。`
   },
 
   /* ── FRENCH ──────────────────────────────────────────────── */
@@ -265,7 +265,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': 'L\'application est-elle vraiment gratuite, sans publicités ni achats intégrés ?',
     'support.faq3_a': 'Oui. Homemade Stories ne contient aucune publicité, aucun abonnement et aucun achat intégré. Nous voulions une application pour enfants que les parents puissent confier l\'esprit tranquille.',
     'support.bugs_h2': 'Suggestions et signalements de bugs',
-    'support.bugs_body_html': `Si vous avez repéré un bug ou une suggestion, écrivez-nous à <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> avec autant de détails que possible.`,
+    'support.bugs_body_html': `Si vous avez repéré un bug ou une suggestion, écrivez-nous à <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> avec autant de détails que possible.`,
     'support.languages_h2': 'Langues disponibles',
     'support.languages_body': 'Homemade Stories est disponible en arabe, chinois, anglais, français, allemand, hindi, italien, japonais, coréen, portugais et espagnol — pour que conteurs et petits auditeurs du monde entier en profitent dans leur langue.',
 
@@ -287,7 +287,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'Services tiers',
     'privacy.thirdparty_body': 'Cette application n\'intègre aucun SDK tiers, réseau publicitaire ou outil d\'analyse.',
     'privacy.contact_h2': 'Contact',
-    'privacy.contact_html': `Pour toute question sur cette politique, veuillez nous contacter à <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>.`
+    'privacy.contact_html': `Pour toute question sur cette politique, veuillez nous contacter à <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>.`
   },
 
   /* ── GERMAN ──────────────────────────────────────────────── */
@@ -333,7 +333,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': 'Ist die App wirklich kostenlos, ohne Werbung und In-App-Käufe?',
     'support.faq3_a': 'Ja. Homemade Stories enthält keine Werbung, keine Abos und keine In-App-Käufe. Wir wollten eine Kinder-App, die Eltern ihren Kindern bedenkenlos in die Hand geben können.',
     'support.bugs_h2': 'Feedback und Fehlerberichte',
-    'support.bugs_body_html': `Wenn du einen Fehler entdeckt hast oder einen Vorschlag hast, schreib uns an <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> mit so vielen Details wie möglich.`,
+    'support.bugs_body_html': `Wenn du einen Fehler entdeckt hast oder einen Vorschlag hast, schreib uns an <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> mit so vielen Details wie möglich.`,
     'support.languages_h2': 'Verfügbare Sprachen',
     'support.languages_body': 'Homemade Stories ist in Arabisch, Chinesisch, Englisch, Französisch, Deutsch, Hindi, Italienisch, Japanisch, Koreanisch, Portugiesisch und Spanisch verfügbar — damit Erzähler und kleine Zuhörer weltweit in ihrer Sprache mitmachen können.',
 
@@ -355,7 +355,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'Drittanbieter-Dienste',
     'privacy.thirdparty_body': 'Diese App bindet keinerlei Drittanbieter-SDKs, Werbenetzwerke oder Analyse-Tools ein.',
     'privacy.contact_h2': 'Kontakt',
-    'privacy.contact_html': `Bei Fragen zu dieser Datenschutzerklärung erreichst du uns unter <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>.`
+    'privacy.contact_html': `Bei Fragen zu dieser Datenschutzerklärung erreichst du uns unter <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>.`
   },
 
   /* ── HINDI ───────────────────────────────────────────────── */
@@ -401,7 +401,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': 'क्या ऐप सचमुच मुफ़्त है, बिना विज्ञापन या इन-ऐप खरीदारी के?',
     'support.faq3_a': 'हाँ। Homemade Stories में कोई विज्ञापन, सब्सक्रिप्शन या इन-ऐप खरीदारी नहीं है। हम चाहते थे कि माता-पिता इसे बेझिझक बच्चों को दे सकें।',
     'support.bugs_h2': 'फ़ीचर अनुरोध और बग रिपोर्ट',
-    'support.bugs_body_html': `यदि आपने कोई बग देखा है या कोई सुझाव है, तो <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> पर विस्तार से ईमेल करें।`,
+    'support.bugs_body_html': `यदि आपने कोई बग देखा है या कोई सुझाव है, तो <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> पर विस्तार से ईमेल करें।`,
     'support.languages_h2': 'उपलब्ध भाषाएँ',
     'support.languages_body': 'Homemade Stories अरबी, चीनी, अंग्रेज़ी, फ़्रेंच, जर्मन, हिंदी, इतालवी, जापानी, कोरियाई, पुर्तगाली और स्पैनिश में उपलब्ध है — ताकि दुनिया भर के कहानीकार और नन्हे श्रोता इसे अपनी भाषा में आनंद ले सकें।',
 
@@ -423,7 +423,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'तृतीय-पक्ष सेवाएँ',
     'privacy.thirdparty_body': 'यह ऐप किसी भी तृतीय-पक्ष SDK, विज्ञापन नेटवर्क या विश्लेषण उपकरण को एकीकृत नहीं करती।',
     'privacy.contact_h2': 'संपर्क',
-    'privacy.contact_html': `यदि इस गोपनीयता नीति के बारे में आपके कोई प्रश्न हैं, तो <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> पर संपर्क करें।`
+    'privacy.contact_html': `यदि इस गोपनीयता नीति के बारे में आपके कोई प्रश्न हैं, तो <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> पर संपर्क करें।`
   },
 
   /* ── ITALIAN ─────────────────────────────────────────────── */
@@ -469,7 +469,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': 'L\'app è davvero gratuita, senza pubblicità o acquisti in-app?',
     'support.faq3_a': 'Sì. Homemade Stories non ha pubblicità, abbonamenti o acquisti in-app. Volevamo un\'app per bambini che i genitori potessero passare ai piccoli senza preoccupazioni.',
     'support.bugs_h2': 'Richieste di funzionalità e segnalazione di bug',
-    'support.bugs_body_html': `Se hai notato un bug o hai un suggerimento, scrivici a <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> con tutti i dettagli possibili.`,
+    'support.bugs_body_html': `Se hai notato un bug o hai un suggerimento, scrivici a <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> con tutti i dettagli possibili.`,
     'support.languages_h2': 'Lingue disponibili',
     'support.languages_body': 'Homemade Stories è disponibile in arabo, cinese, inglese, francese, tedesco, hindi, italiano, giapponese, coreano, portoghese e spagnolo — così narratori e piccoli ascoltatori di tutto il mondo possono goderne nella propria lingua.',
 
@@ -491,7 +491,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'Servizi di terze parti',
     'privacy.thirdparty_body': 'Questa app non integra SDK di terze parti, reti pubblicitarie o strumenti di analisi.',
     'privacy.contact_h2': 'Contatti',
-    'privacy.contact_html': `Per qualsiasi domanda su questa informativa, scrivici a <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>.`
+    'privacy.contact_html': `Per qualsiasi domanda su questa informativa, scrivici a <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>.`
   },
 
   /* ── JAPANESE ────────────────────────────────────────────── */
@@ -537,7 +537,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': '本当に無料で、広告もApp内課金もないのですか？',
     'support.faq3_a': 'はい。Homemade Storiesには広告、サブスク、App内課金のいずれもありません。保護者の方が安心してお子さまに渡せるアプリを目指しました。',
     'support.bugs_h2': '機能リクエストとバグ報告',
-    'support.bugs_body_html': `不具合やご提案は、できるだけ詳しく <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> までメールでお知らせください。`,
+    'support.bugs_body_html': `不具合やご提案は、できるだけ詳しく <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> までメールでお知らせください。`,
     'support.languages_h2': '対応言語',
     'support.languages_body': 'Homemade Storiesは、アラビア語、中国語、英語、フランス語、ドイツ語、ヒンディー語、イタリア語、日本語、韓国語、ポルトガル語、スペイン語に対応しています。世界中の語り手と小さなリスナーが、それぞれの言葉で楽しめます。',
 
@@ -559,7 +559,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'サードパーティのサービス',
     'privacy.thirdparty_body': '本アプリは、サードパーティのSDK、広告ネットワーク、分析ツールを一切組み込んでいません。',
     'privacy.contact_h2': 'お問い合わせ',
-    'privacy.contact_html': `本プライバシーポリシーについてご不明な点がある場合は、<a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>までご連絡ください。`
+    'privacy.contact_html': `本プライバシーポリシーについてご不明な点がある場合は、<a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>までご連絡ください。`
   },
 
   /* ── KOREAN ──────────────────────────────────────────────── */
@@ -605,7 +605,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': '정말 광고나 인앱 구매 없이 무료인가요?',
     'support.faq3_a': '네. Homemade Stories에는 광고, 구독, 인앱 구매가 없습니다. 부모님이 안심하고 아이에게 건네줄 수 있는 앱을 만들고 싶었어요.',
     'support.bugs_h2': '기능 요청 및 버그 리포트',
-    'support.bugs_body_html': `버그를 발견하셨거나 제안이 있으시다면 가능한 한 자세한 내용을 담아 <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>으로 이메일을 보내 주세요.`,
+    'support.bugs_body_html': `버그를 발견하셨거나 제안이 있으시다면 가능한 한 자세한 내용을 담아 <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>으로 이메일을 보내 주세요.`,
     'support.languages_h2': '지원 언어',
     'support.languages_body': 'Homemade Stories는 아랍어, 중국어, 영어, 프랑스어, 독일어, 힌디어, 이탈리아어, 일본어, 한국어, 포르투갈어, 스페인어로 제공돼요. 전 세계의 이야기꾼과 작은 청취자들이 각자의 언어로 즐길 수 있도록요.',
 
@@ -627,7 +627,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': '제3자 서비스',
     'privacy.thirdparty_body': '본 앱은 제3자 SDK, 광고 네트워크, 분석 도구를 일절 포함하지 않습니다.',
     'privacy.contact_h2': '문의',
-    'privacy.contact_html': `본 개인정보 처리방침에 관해 문의사항이 있으시면 <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>으로 연락해 주세요.`
+    'privacy.contact_html': `본 개인정보 처리방침에 관해 문의사항이 있으시면 <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>으로 연락해 주세요.`
   },
 
   /* ── PORTUGUESE ──────────────────────────────────────────── */
@@ -673,7 +673,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': 'O app é mesmo gratuito, sem anúncios nem compras no app?',
     'support.faq3_a': 'Sim. O Homemade Stories não tem anúncios, assinaturas nem compras no app. Queríamos um app infantil que os pais pudessem entregar aos filhos sem preocupação.',
     'support.bugs_h2': 'Sugestões e relatos de bugs',
-    'support.bugs_body_html': `Se encontrou um bug ou tem uma sugestão, escreva para <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> com o máximo de detalhes possível.`,
+    'support.bugs_body_html': `Se encontrou um bug ou tem uma sugestão, escreva para <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> com o máximo de detalhes possível.`,
     'support.languages_h2': 'Idiomas disponíveis',
     'support.languages_body': 'O Homemade Stories está disponível em árabe, chinês, inglês, francês, alemão, hindi, italiano, japonês, coreano, português e espanhol — para que contadores de histórias e pequenos ouvintes em todo o mundo possam aproveitar no seu próprio idioma.',
 
@@ -695,7 +695,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'Serviços de terceiros',
     'privacy.thirdparty_body': 'Este app não integra nenhum SDK, rede publicitária nem ferramenta de análise de terceiros.',
     'privacy.contact_h2': 'Contato',
-    'privacy.contact_html': `Em caso de dúvidas sobre esta política de privacidade, entre em contato pelo <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>.`
+    'privacy.contact_html': `Em caso de dúvidas sobre esta política de privacidade, entre em contato pelo <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>.`
   },
 
   /* ── SPANISH ─────────────────────────────────────────────── */
@@ -741,7 +741,7 @@ window.HS_TRANSLATIONS = {
     'support.faq3_q': '¿La app es realmente gratis, sin anuncios ni compras dentro de la app?',
     'support.faq3_a': 'Sí. Homemade Stories no tiene anuncios, ni suscripciones, ni compras dentro de la app. Queríamos una app infantil que los padres pudieran pasar a sus hijos sin preocuparse.',
     'support.bugs_h2': 'Sugerencias y reportes de errores',
-    'support.bugs_body_html': `Si detectas un error o tienes una sugerencia, escríbenos a <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a> con el mayor detalle posible.`,
+    'support.bugs_body_html': `Si detectas un error o tienes una sugerencia, escríbenos a <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a> con el mayor detalle posible.`,
     'support.languages_h2': 'Idiomas disponibles',
     'support.languages_body': 'Homemade Stories está disponible en árabe, chino, inglés, francés, alemán, hindi, italiano, japonés, coreano, portugués y español — para que narradores y pequeños oyentes de todo el mundo disfruten la app en su propio idioma.',
 
@@ -763,7 +763,7 @@ window.HS_TRANSLATIONS = {
     'privacy.thirdparty_h2': 'Servicios de terceros',
     'privacy.thirdparty_body': 'Esta app no integra SDKs, redes publicitarias ni herramientas de analítica de terceros.',
     'privacy.contact_h2': 'Contacto',
-    'privacy.contact_html': `Si tienes alguna pregunta sobre esta política de privacidad, escríbenos a <a href="mailto:homemade_stories@icloud.com">homemade_stories@icloud.com</a>.`
+    'privacy.contact_html': `Si tienes alguna pregunta sobre esta política de privacidad, escríbenos a <a href="mailto:contact@homemade-stories.com">contact@homemade-stories.com</a>.`
   }
 
 }; // end HS_TRANSLATIONS
