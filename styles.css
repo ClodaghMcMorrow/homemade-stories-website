@@ -281,6 +281,29 @@ section { padding: clamp(56px, 9vw, 112px) 0; }
   background: var(--orange-dark);
 }
 
+/* Android coming-soon pill */
+.btn-android-soon {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 24px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: default;
+  border: 1.5px dashed rgba(46, 58, 89, 0.28);
+  background: transparent;
+  color: var(--muted);
+  opacity: 0.75;
+  user-select: none;
+}
+/* On the dark CTA band, lighten the pill */
+.btn-android-soon--dark {
+  border-color: rgba(255, 255, 255, 0.35);
+  color: rgba(255, 255, 255, 0.65);
+}
+
 /* Footer */
 .site-footer {
   padding: 40px 0 60px;
